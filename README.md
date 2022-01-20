@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning:
   - Game develop with Godot engine.
   - React.
+  - Svelte.
+  - PWA.
 - 📫 How to reach me?
   - [My personal web page](https://leonardobevilacqua.com.br)
 
