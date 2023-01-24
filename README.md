@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software analyst in Instituto de Pesquisas Eldorado
 ---------------------------------------------------
 
-\- Graduated in IT technician, at Escola SENAI Prof. Dr. Euryclides de Jesus Zerbini and Computer Science, at DeVry Metrocamp College. - Worked as an intern and employee at the company VISIO TECNOLOGIA, working with the 4GL programming language and Oracle, Informix and SQLServer databases. - Worked as an intern at Instituto Eldorado Campinas, and currently as a software analyst. - Graduated in software engineering.
+- Graduated in IT technician, at Escola SENAI Prof. Dr. Euryclides de Jesus Zerbini and Computer Science, at DeVry Metrocamp College.
+- Worked as an intern and employee at the company VISIO TECNOLOGIA, working with the 4GL programming language and Oracle, Informix and SQLServer databases. 
+- Worked as an intern at Instituto Eldorado Campinas, and currently as a software analyst. 
+- Graduated in software engineering.
 
 * 🌍  I'm based in Campinas, SP
 * 🖥️  See my portfolio at [Webpage](http://leonardobevilacqua.com.br/)
